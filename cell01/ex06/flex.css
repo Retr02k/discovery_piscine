@@ -1,0 +1,17 @@
+.box {
+	flex: 1;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.flex-container {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+	justify-content: center;
+}
