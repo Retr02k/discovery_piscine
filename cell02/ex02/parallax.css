@@ -1,0 +1,32 @@
+.background1 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height:100vh;
+	background-image: url("/home/ppinhao/Downloads/fdfs11-4236432881.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	margin: 0;
+}
+
+.background2 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height:100%;
+	background-image: url("/home/ppinhao/Downloads/374644-path-landscape-trees-478008857.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.separator {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 200px;
+	background: black;
+	width: 100%;
+}
